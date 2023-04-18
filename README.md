@@ -1,4 +1,4 @@
-# DS340
+# NFL DATASET SUPER BOWL MODEL
 
 Data Pre-Processing: Code.R
 
